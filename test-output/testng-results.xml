@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="17843" started-at="2018-06-10T14:02:39Z" finished-at="2018-06-10T14:02:57Z">
+  <suite name="Default suite" duration-ms="11899" started-at="2018-08-13T11:34:37Z" finished-at="2018-08-13T11:34:49Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="17843" started-at="2018-06-10T14:02:39Z" finished-at="2018-06-10T14:02:57Z">
-      <class name="trainings.HandleWindow">
-        <test-method status="PASS" signature="start()[pri:0, instance:trainings.HandleWindow@d44fc21]" name="start" duration-ms="17747" started-at="2018-06-10T14:02:40Z" finished-at="2018-06-10T14:02:57Z">
+    <test name="Default test" duration-ms="11899" started-at="2018-08-13T11:34:37Z" finished-at="2018-08-13T11:34:49Z">
+      <class name="TestAngularApp">
+        <test-method status="PASS" signature="begin()[pri:0, instance:TestAngularApp@1786dec2]" name="begin" duration-ms="11871" started-at="2018-08-13T11:34:37Z" finished-at="2018-08-13T11:34:49Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- start -->
-      </class> <!-- trainings.HandleWindow -->
+        </test-method> <!-- begin -->
+      </class> <!-- TestAngularApp -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

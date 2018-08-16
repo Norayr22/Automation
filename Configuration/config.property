@@ -1,0 +1,5 @@
+ChromeDriver = C:\\Users\\User\\Downloads\\chromedriver_win32\\chromedriver.exe
+
+ExcelPath = C:\\ExcellData\\TestData.xlsx
+
+URL = http:learn-automation.com
